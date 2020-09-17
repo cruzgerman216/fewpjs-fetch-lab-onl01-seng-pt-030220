@@ -13,6 +13,9 @@ function renderBooks(books) {
   })
 }
 
+function getPosts(){
+  
+}
 document.addEventListener('DOMContentLoaded', function() {
   fetchBooks()
 })
